@@ -165,8 +165,8 @@
         }
       ],
       "nro": "peggle1.nro",
-      "nro_sha256": "7b654f69a27a738e8f9db91d89244d02ea81d68e7d1fd6c681ade640377de804",
-      "nro_size": 40519640,
+      "nro_sha256": "c91aec0c87ad1aedde2fcc14edc6de39fecbbaead8ba123de35d3f61188dc6fa",
+      "nro_size": 40536134,
       "deko3d": {
         "shaders": [
           "ps_13D1F9C0BB97B49D",
